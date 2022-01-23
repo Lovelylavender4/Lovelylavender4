@@ -6,7 +6,10 @@
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovelylavender4)](https://github.com/Lovelylavender4)**
 
 ### **🌼Self introduction🌼**
-Hello, I am born in China in 2012. I am a very friendly girl. At the end of 2020, I started to learn C ++, then, I learned C, C #, Lua, Python and some Java. C ++ is my favorite programming language. Although I am very young, I will try to learn! In the spare time, I will do some small project with what I will. I like to make friends with others, and I have my contact information below. You can call me for Feilulu.
+**Hello, I am born in China in 2012. I am a very friendly girl. At the end of 2020, I started to learn C ++, then, I learned C, C #, Lua, Python and some Java. C ++ is my favorite programming language. Although I am very young, I will try to learn! In the spare time, I will do some small project with what I will. I like to make friends with others, and I have my contact information below. You can call me for Feilulu.If you want to join my organization, please continue to read**
+
+### **🎟️Join my organization**
+**My organization called Luoxue, which mainly develops some projects, you can use any language. If you want to join my organization, please contact me. Thank you**
 
 
 ### **🏖️Contact me🏖️**
