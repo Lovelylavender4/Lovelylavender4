@@ -8,6 +8,8 @@
 ### **🌼Self introduction🌼**
 **Hello~, I am a 12 years old friendly girl, you can call me FeiLulu. At the beginning of 2021, I started to learn C++, then, I learned some other languages. C++ is my favorite programming language. Although I am still very young and there are many things I don't know, I will try my best to learn! In my free time, I'll do some small projects, and you're welcome to join! I'm trying to learn, so I hope you can guide me more! I like to make friends with people, and I have my contact information below.**
 
+I am currently active in the [LeviLamina](https://github.com/LiteLDev/LeviLamina) project.
+
 ### **🏖️Contact me🏖️**
 ####   **🌸mail**:*MiracleForest@Outlook.com*
 ####   **🌴QQ**:*2604142557*
