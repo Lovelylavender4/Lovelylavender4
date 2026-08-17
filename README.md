@@ -15,7 +15,7 @@ Hello~, I am a 14 years old friendly girl, you can call me CuteKitten. At the be
 
 I am currently active in the **[LeviLamina](https://github.com/LiteLDev/LeviLamina)** project.
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LiteLDev&repo=LeviLamina)](https://github.com/LiteLDev/LeviLamina)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=LiteLDev&repo=LeviLamina)](https://github.com/LiteLDev/LeviLamina)
 
 ### **🏖️Contact me🏖️**
 
