@@ -5,9 +5,9 @@
 ### **🍰Active🍰**
 
 [![Lovelylavender4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lovelylavender4&bg_color=fee1f1&color=1b2223&line=6be6ff&point=fdff94&area=true&hide_border=true)](https://github.com/Lovelylavender4)
-**[![stats](https://github-stats-extended.vercel.app/api?username=lovelylavender4&count_private=true&show_icons=true)](https://github.com/Lovelylavender4)**
+**[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lovelylavender4&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/Lovelylavender4)**
 
-**[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lovelylavender4)](https://github.com/Lovelylavender4)**
+**[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lovelylavender4&langs_count=8&theme=buefy)](https://github.com/Lovelylavender4)**
 
 ### **🌼Self introduction🌼**
 
@@ -15,7 +15,7 @@ Hello~, I am a 14 years old friendly girl, you can call me CuteKitten. At the be
 
 I am currently active in the **[LeviLamina](https://github.com/LiteLDev/LeviLamina)** project.
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=LiteLDev&repo=LeviLamina)](https://github.com/LiteLDev/LeviLamina)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Lovelylavender4&repo=LiteLDev%2FLeviLamina&description_lines_count=2&theme=buefy)](https://github.com/LiteLDev/LeviLamina)
 
 ### **🏖️Contact me🏖️**
 
