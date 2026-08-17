@@ -5,9 +5,9 @@
 ### **🍰Active🍰**
 
 [![Lovelylavender4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lovelylavender4&bg_color=fee1f1&color=1b2223&line=6be6ff&point=fdff94&area=true&hide_border=true)](https://github.com/Lovelylavender4)
-**[![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lovelylavender4&count_private=true&show_icons=true)](https://github.com/Lovelylavender4)**
+**[![stats](https://github-stats-extended.vercel.app/api?username=lovelylavender4&count_private=true&show_icons=true)](https://github.com/Lovelylavender4)**
 
-**[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lovelylavender4)](https://github.com/Lovelylavender4)**
+**[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lovelylavender4)](https://github.com/Lovelylavender4)**
 
 ### **🌼Self introduction🌼**
 
